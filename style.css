@@ -1,0 +1,24 @@
+nav {
+    border: 2px solid black; height: 50px;
+  }
+
+  img { width: 300px;
+
+
+  }
+
+.pic{
+    width: 800px; margin-right: 20px;
+}
+
+a{
+    margin-right: 280px;
+}
+
+li{
+    float: left;
+}
+ 
+body{
+    background-color: khaki;
+}
