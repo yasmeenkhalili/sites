@@ -9,4 +9,13 @@ console.log(firstName,secondName);
 if(secondName==null || secondName==""){
     alert ("please insert your second name"); 
 }
-alert ("Welome"+" "+firstName+" "+secondName);  
+alert ("Welome"+" "+firstName+" "+secondName);
+  
+var year;
+function ageCalculator (year){
+var year=prompt("insert your birth year");
+var age=2021- parseInt(year);
+alert ("Your age is "+ age);
+
+}
+ageCalculator (year);
